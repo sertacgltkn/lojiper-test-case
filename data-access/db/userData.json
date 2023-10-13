@@ -1,0 +1,35 @@
+[
+  {
+    "email": "sertacgltkn@gmail.com",
+    "password": "123456",
+    "firstName": "Sertaç",
+    "lastName": "Gültekin",
+    "gender": "male",
+    "birthDay": "10",
+    "birthMonth": "08",
+    "birthYear": "1992",
+    "username": "sertacgltkn"
+  },
+  {
+    "email": "lojiper@gmail.com",
+    "password": "123456",
+    "firstName": "Lojiper",
+    "lastName": "Lojiper",
+    "gender": "male",
+    "birthDay": "50",
+    "birthMonth": "01",
+    "birthYear": "1950",
+    "username": "lojiper"
+  },
+  {
+    "email": "kardelen@gmail.com",
+    "password": "123456",
+    "firstName": "Kardelen",
+    "lastName": "Nazende",
+    "gender": "female",
+    "birthDay": "16",
+    "birthMonth": "01",
+    "birthYear": "1993",
+    "username": "kardelen"
+  }
+]
