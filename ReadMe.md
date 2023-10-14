@@ -12,7 +12,7 @@ Kullanıcıların otobüs bileti satın almak için kullanabilecekleri bir aray�
 
 - Projeyi klonlayın.
 
-git clone    https://github.com/sertacgltkn/lojiper-task.git 
+git clone    https://github.com/sertacgltkn/lojiper-task.git
 
 ### Projeyi çalıştırma
 Terminalde aşağıdaki kodları sırasıyla giriniz.
